@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+/Users/0xclear/Documents/FSJ-Development/FullGit/FullStackRepo/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+2118061290.index
+509308410.index
+1383339049.index
+2019278736.index
+1038047375.index
